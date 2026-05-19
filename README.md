@@ -2,4 +2,3 @@
 
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dpejoh)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dpejoh)
